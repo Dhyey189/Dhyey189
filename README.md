@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhyey Patel</h1>
-<h3 align="center">A 4th year computer science student passionate of Web Development and Competitive Programming.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyey189&label=Profile%20views&color=0e75b6&style=flat" alt="dhyey189" /> </p>
 
