@@ -1,10 +1,10 @@
 # 💫 About Me:
 I am a Software Engineer with a deep passion for learning and innovation. I'm always eager to dive into new technologies and broaden my skill set. My drive is to explore cutting-edge tools and techniques, applying them to solve real-world challenges. 
 
-Leetcode: https://leetcode.com/Dhyey189/
-CodeChef: https://www.codechef.com/users/dhyeypatel
-Codeforces: https://codeforces.com/profile/Dhyey189
-Google Kick start: https://drive.google.com/file/d/1vxi-uCHcoJlVko-CL6MwUYOHEBORRdPz/view?usp=sharing
+Leetcode: https://leetcode.com/Dhyey189/ </br>
+CodeChef: https://www.codechef.com/users/dhyeypatel </br>
+Codeforces: https://codeforces.com/profile/Dhyey189 </br>
+Google Kick start: https://drive.google.com/file/d/1vxi-uCHcoJlVko-CL6MwUYOHEBORRdPz/view?usp=sharing </br>
 
 
 ## 🌐 Socials:
